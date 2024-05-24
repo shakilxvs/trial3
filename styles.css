@@ -1,0 +1,436 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #fff;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+.header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.header nav ul li a:hover {
+    color: #ffeb3b;
+}
+
+.about, .expertise, .services, .reviews, .contact {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.about h2, .expertise h2, .services h2, .reviews h2, .contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00796b;
+}
+
+.about p, .contact p {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    width: 60%;
+    color: #333;
+}
+
+.about-img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+    border: 5px solid #00796b;
+    transition: transform 0.3s;
+}
+
+.about-img:hover {
+    transform: scale(1.1);
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.footer .freelance-links a {
+    color: #ffeb3b;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+.footer .freelance-links a:hover {
+    color: #fff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #fff;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+.header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.header nav ul li a:hover {
+    color: #ffeb3b;
+}
+
+.about, .expertise, .services, .reviews, .contact {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.about h2, .expertise h2, .services h2, .reviews h2, .contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00796b;
+}
+
+.about p, .contact p {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    width: 60%;
+    color: #333;
+}
+
+.about-img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+    border: 5px solid #00796b;
+    transition: transform 0.3s;
+}
+
+.about-img:hover {
+    transform: scale(1.1);
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.footer .freelance-links a {
+    color: #ffeb3b;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+.footer .freelance-links a:hover {
+    color: #fff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #fff;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+.header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.header nav ul li a:hover {
+    color: #ffeb3b;
+}
+
+.about, .expertise, .services, .reviews, .contact {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.about h2, .expertise h2, .services h2, .reviews h2, .contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00796b;
+}
+
+.about p, .contact p {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    width: 60%;
+    color: #333;
+}
+
+.about-img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+    border: 5px solid #00796b;
+    transition: transform 0.3s;
+}
+
+.about-img:hover {
+    transform: scale(1.1);
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.footer .freelance-links a {
+    color: #ffeb3b;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+.footer .freelance-links a:hover {
+    color: #fff;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #fff;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+.header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.header nav ul li a:hover {
+    color: #ffeb3b;
+}
+
+.about, .expertise, .services, .reviews, .contact {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.about h2, .expertise h2, .services h2, .reviews h2, .contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #00796b;
+}
+
+.about p, .contact p {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    width: 60%;
+    color: #333;
+}
+
+.about-img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+    border: 5px solid #00796b;
+    transition: transform 0.3s;
+}
+
+.about-img:hover {
+    transform: scale(1.1);
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.footer .freelance-links a {
+    color: #ffeb3b;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+.footer .freelance-links a:hover {
+    color: #fff;
+}
